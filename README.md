@@ -1,7 +1,7 @@
 playDices
 =========
 
-This is a dice game programmed by dice.
+This is a dice game .
 
 It is programmed by swift.
 

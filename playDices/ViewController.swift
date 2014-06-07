@@ -28,11 +28,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        var backView = UIImageView()
-        backView.frame = CGRectMake(0,0,320,480)
-        let m1 = UIImage(named:"背景.png")
-        backView.image = m1
-        self.view.addSubview(backView)
+//        var backView = UIImageView()
+//        backView.frame = CGRectMake(0,0,320,480)
+//        let m1 = UIImage(named:"背景.png")
+//        backView.image = m1
+//        self.view.addSubview(backView)
         
         dice1View.frame = CGRectMake(0,50,100,100)
         let image = UIImage(named:"骰子1.png")

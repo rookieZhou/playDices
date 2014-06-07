@@ -12,6 +12,13 @@
 		A982ADCD1940104000A1ADF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A982ADCB1940104000A1ADF8 /* Main.storyboard */; };
 		A982ADCF1940104000A1ADF8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A982ADCE1940104000A1ADF8 /* Images.xcassets */; };
 		A982ADDB1940104000A1ADF8 /* playDicesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A982ADDA1940104000A1ADF8 /* playDicesTests.swift */; };
+		A982ADEF1940156600A1ADF8 /* 背景.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADE81940156600A1ADF8 /* 背景.png */; };
+		A982ADF01940156600A1ADF8 /* 骰子1.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADE91940156600A1ADF8 /* 骰子1.png */; };
+		A982ADF11940156600A1ADF8 /* 骰子2.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADEA1940156600A1ADF8 /* 骰子2.png */; };
+		A982ADF21940156600A1ADF8 /* 骰子3.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADEB1940156600A1ADF8 /* 骰子3.png */; };
+		A982ADF31940156600A1ADF8 /* 骰子4.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADEC1940156600A1ADF8 /* 骰子4.png */; };
+		A982ADF41940156600A1ADF8 /* 骰子5.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADED1940156600A1ADF8 /* 骰子5.png */; };
+		A982ADF51940156600A1ADF8 /* 骰子6.png in Resources */ = {isa = PBXBuildFile; fileRef = A982ADEE1940156600A1ADF8 /* 骰子6.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,13 @@
 		A982ADD41940104000A1ADF8 /* playDicesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = playDicesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A982ADD91940104000A1ADF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A982ADDA1940104000A1ADF8 /* playDicesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playDicesTests.swift; sourceTree = "<group>"; };
+		A982ADE81940156600A1ADF8 /* 背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "背景.png"; sourceTree = "<group>"; };
+		A982ADE91940156600A1ADF8 /* 骰子1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子1.png"; sourceTree = "<group>"; };
+		A982ADEA1940156600A1ADF8 /* 骰子2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子2.png"; sourceTree = "<group>"; };
+		A982ADEB1940156600A1ADF8 /* 骰子3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子3.png"; sourceTree = "<group>"; };
+		A982ADEC1940156600A1ADF8 /* 骰子4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子4.png"; sourceTree = "<group>"; };
+		A982ADED1940156600A1ADF8 /* 骰子5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子5.png"; sourceTree = "<group>"; };
+		A982ADEE1940156600A1ADF8 /* 骰子6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "骰子6.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +92,13 @@
 				A982ADC71940104000A1ADF8 /* AppDelegate.swift */,
 				A982ADC91940104000A1ADF8 /* ViewController.swift */,
 				A982ADCB1940104000A1ADF8 /* Main.storyboard */,
+				A982ADE81940156600A1ADF8 /* 背景.png */,
+				A982ADE91940156600A1ADF8 /* 骰子1.png */,
+				A982ADEA1940156600A1ADF8 /* 骰子2.png */,
+				A982ADEB1940156600A1ADF8 /* 骰子3.png */,
+				A982ADEC1940156600A1ADF8 /* 骰子4.png */,
+				A982ADED1940156600A1ADF8 /* 骰子5.png */,
+				A982ADEE1940156600A1ADF8 /* 骰子6.png */,
 				A982ADCE1940104000A1ADF8 /* Images.xcassets */,
 				A982ADC51940104000A1ADF8 /* Supporting Files */,
 			);
@@ -190,7 +211,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A982ADCD1940104000A1ADF8 /* Main.storyboard in Resources */,
+				A982ADEF1940156600A1ADF8 /* 背景.png in Resources */,
+				A982ADF11940156600A1ADF8 /* 骰子2.png in Resources */,
+				A982ADF31940156600A1ADF8 /* 骰子4.png in Resources */,
+				A982ADF21940156600A1ADF8 /* 骰子3.png in Resources */,
 				A982ADCF1940104000A1ADF8 /* Images.xcassets in Resources */,
+				A982ADF51940156600A1ADF8 /* 骰子6.png in Resources */,
+				A982ADF01940156600A1ADF8 /* 骰子1.png in Resources */,
+				A982ADF41940156600A1ADF8 /* 骰子5.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
